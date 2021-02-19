@@ -1,9 +1,9 @@
 # Cipherfy
-## Что такое Cipherfy
-Cipherfy это приложение для шифрования и дешифровки текста. Оно поможет вам оставить ваши сообщения засекреченными. Приложение использует различные методы симметричного и ассиметричного шифрования. 
-## Целевая аудитория
-Cipherfy рассчитан на различные группы людей. Молодые люди и студенты возрастом от 15 до 25, которые не хотят афиширования какого-то события. Люди с высоким достатком в возрасте до 50 лет, которые не хотят рассекречивания какой-либо важной информации в переписках с бизнес-партнерами. Приложение поддерживает русский и английский языки, поэтому может быть использовано людьми из СНГ, Европы и Америки.
-## Технологии
+## What is Cipherfy
+Cipherfy is an application for encrypting and decrypting text. It will help you keep your messages secured. The application uses various methods of symmetric and asymmetric encryption. 
+## Еtarget audience
+Cipherfy is designed for different groups of people. Young people and students aged 15 to 25 who do not want to advertise an personal event. People with high incomes under the age of 50 who do not want to declassify any important information in their correspondence with business partners. The application supports Russian and English, so it can be used by people from the CIS, Europe and America.
+## Еechnologies
  ### User interface
 * SwiftUI
  ### Back end
@@ -11,8 +11,8 @@ Cipherfy рассчитан на различные группы людей. М�
 * SQLite
 * IOS SDK
 ### IOS versions
-Приложение рассчитано на iOS версии 14.0 или новее
-## Список екранов
+The application is designed for iOS version 12.0 or newer
+## Screen list
 * [Login page](https://www.figma.com/file/mFrvIrIqeUk862WydiAN2B/?node-id=0%3A1)
 * [Register page](https://www.figma.com/file/mFrvIrIqeUk862WydiAN2B/prototype?node-id=2%3A4)
 * [Language page](https://www.figma.com/file/mFrvIrIqeUk862WydiAN2B/prototype?node-id=3%3A0)
