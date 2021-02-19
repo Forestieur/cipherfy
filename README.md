@@ -10,6 +10,8 @@ Cipherfy рассчитан на различные группы людей. М�
 * Swift
 * SQLite
 * IOS SDK
+### IOS versions
+Приложение рассчитано на iOS версии 14.0 или новее
 ## Список екранов
 * [Login page](https://www.figma.com/file/mFrvIrIqeUk862WydiAN2B/?node-id=0%3A1)
 * [Register page](https://www.figma.com/file/mFrvIrIqeUk862WydiAN2B/prototype?node-id=2%3A4)
